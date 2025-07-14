@@ -7,7 +7,7 @@ An AI-powered contract summarization and clause extraction tool tailored for ret
 
 ---
 
-## 📌 Overview
+## 📌 Overview:
 
 **Contract Summarizer** helps procurement, legal, and logistics teams automatically:
 - 🔍 Summarize long vendor and logistics contracts
